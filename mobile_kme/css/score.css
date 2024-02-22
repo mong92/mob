@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@font-face
+    {font-family: 'Score_T';src:url('../font/SCDream1.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_EL';src:url('../font/SCDream2.woff') format('woff');}
+    
+@font-face
+    {font-family: 'Score_L';src:url('../font/SCDream3.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_R';src:url('../font/SCDream4.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_M';src:url('../font/SCDream5.woff') format('woff');}
+
+@font-face
+    {font-family: 'ScoreB';src:url('../font/SCDream6.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_EB';src:url('../font/SCDream7.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_H';src:url('../font/SCDream8.woff') format('woff');}
+
+@font-face
+    {font-family: 'Score_BL';src:url('../font/SCDream9.woff') format('woff');}
